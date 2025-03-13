@@ -11,3 +11,4 @@ print(torch.cuda.device_count())
 
 # 查看PyTorch对应的CUDA版本
 print(torch.version.cuda)
+#时间
